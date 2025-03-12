@@ -1,6 +1,6 @@
 # pagila-hw2
 
-![GitHub Actions](https://github.com/annikagaglani/pagila-hw2/actions/workflows/main.yml/badge.svg)
+![GitHub Actions](https://github.com/annikagaglani/pagila-hw2/actions/workflows/main.yml/badge.svg)(https://github.com/mikeizbicki/pagila-hw2/actions?query=workflow%3Atests)
 
 This is the second SQL homework in CMC's CSCI143: Big Data class.
 
